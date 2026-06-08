@@ -1,0 +1,32 @@
+# великі бінарні файли
+matrix_cache.npy
+bible_kjv.txt
+pg10.txt
+
+# вихідні HTML
+output.html
+_bench_tmp.html
+control_1.html
+control_2.html
+control_3.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+
+# середовища
+.venv/
+venv/
+env/
+.env
+
+# Pyvis JS-бібліотеки (генеруються автоматично)
+lib/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PDF звіти
+*.pdf

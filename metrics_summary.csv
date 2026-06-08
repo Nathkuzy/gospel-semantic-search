@@ -1,0 +1,7 @@
+﻿Запит,P@10,P@50,NDCG@10,NDCG@50,Intra/Inter,Mean sim,Ребра у графі
+love thy neighbour,1.000,0.540,1.000,0.667,1.40x,0.7136,256
+faith and miracles,0.500,0.440,0.656,0.529,1.44x,0.7489,691
+forgiveness of sins,0.600,0.400,0.706,0.489,1.35x,0.7337,340
+resurrection and eternal life,0.600,0.400,0.548,0.420,1.38x,0.7381,447
+prayer and fasting,0.700,0.400,0.795,0.511,1.35x,0.7018,262
+bread and wine last supper,0.800,0.640,0.850,0.712,1.37x,0.7375,444
